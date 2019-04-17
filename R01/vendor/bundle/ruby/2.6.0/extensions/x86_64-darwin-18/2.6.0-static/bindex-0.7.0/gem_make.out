@@ -1,0 +1,15 @@
+current directory: /Users/master/Projects/aiit/playground-framework/01/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+/Users/master/.rbenv/versions/2.6.1/bin/ruby -I /Users/master/.rbenv/versions/2.6.1/lib/ruby/2.6.0 -r ./siteconf20190417-57532-1y5b0f5.rb extconf.rb
+creating Makefile
+
+current directory: /Users/master/Projects/aiit/playground-framework/01/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/master/Projects/aiit/playground-framework/01/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/master/Projects/aiit/playground-framework/01/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190417-57532-f9vp1w/skiptrace
