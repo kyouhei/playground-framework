@@ -351,23 +351,23 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="jbuilder (vbundled(2.6.4)) [path][gem]" type="rubylib">
+      <library name="jbuilder (vbundled(2.7.0)) [path][gem]" type="rubylib">
         <properties>
           <option name="version" value="4" />
         </properties>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.6.0/gems/jbuilder-2.6.4/lib" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.6.0/gems/jbuilder-2.6.4/test" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.6.0/gems/jbuilder-2.6.4/gemfiles" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.6.0/gems/jbuilder-2.7.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.6.0/gems/jbuilder-2.7.0/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.6.0/gems/jbuilder-2.7.0/gemfiles" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.6.0/gems/jbuilder-2.6.4/lib" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.6.0/gems/jbuilder-2.6.4/test" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.6.0/gems/jbuilder-2.6.4/gemfiles" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.6.0/gems/jbuilder-2.7.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.6.0/gems/jbuilder-2.7.0/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.6.0/gems/jbuilder-2.7.0/gemfiles" />
         </SOURCES>
         <excluded>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.6.0/gems/jbuilder-2.6.4/test" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.6.0/gems/jbuilder-2.6.4/gemfiles" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.6.0/gems/jbuilder-2.7.0/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.6.0/gems/jbuilder-2.7.0/gemfiles" />
         </excluded>
       </library>
     </orderEntry>
