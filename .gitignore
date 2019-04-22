@@ -1,13 +1,13 @@
 *.rbc
 capybara-*.html
 .rspec
-/log
-/tmp
-/db/*.sqlite3
-/db/*.sqlite3-journal
-/public/system
-/coverage/
-/spec/tmp
+*/log
+*/tmp
+*/db/*.sqlite3
+*/db/*.sqlite3-journal
+*/public/system
+*/coverage/
+*/spec/tmp
 *.orig
 rerun.txt
 pickle-email-*.html
@@ -24,8 +24,8 @@ config/master.key
 .env
 
 ## Environment normalization:
-/.bundle
-/vendor/bundle
+*/.bundle
+*/vendor/bundle
 
 # these should all be checked in to normalize the environment:
 # Gemfile.lock, .ruby-version, .ruby-gemset
@@ -47,3 +47,5 @@ bower.json
 # Ignore node_modules
 node_modules/
 
+*/vendor/*
+*/.idea/
